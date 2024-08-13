@@ -22,7 +22,7 @@ void loop() {
   
 }
 
-void ledOn(int lidPin){
+void ledOn(int ledPin){
   digitalWrite(red, HIGH);
   delay(timeOn);
 }
